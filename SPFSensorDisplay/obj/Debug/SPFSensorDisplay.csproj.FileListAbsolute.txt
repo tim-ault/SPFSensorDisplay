@@ -1,0 +1,9 @@
+C:\GitHub\SPFSensorDisplay\SPFSensorDisplay\bin\Debug\SPFSensorDisplay.exe.config
+C:\GitHub\SPFSensorDisplay\SPFSensorDisplay\bin\Debug\SPFSensorDisplay.exe
+C:\GitHub\SPFSensorDisplay\SPFSensorDisplay\bin\Debug\SPFSensorDisplay.pdb
+C:\GitHub\SPFSensorDisplay\SPFSensorDisplay\obj\Debug\SPFSensorDisplay.csprojResolveAssemblyReference.cache
+C:\GitHub\SPFSensorDisplay\SPFSensorDisplay\obj\Debug\SPFSensorDisplay.Form1.resources
+C:\GitHub\SPFSensorDisplay\SPFSensorDisplay\obj\Debug\SPFSensorDisplay.Properties.Resources.resources
+C:\GitHub\SPFSensorDisplay\SPFSensorDisplay\obj\Debug\SPFSensorDisplay.csproj.GenerateResource.Cache
+C:\GitHub\SPFSensorDisplay\SPFSensorDisplay\obj\Debug\SPFSensorDisplay.exe
+C:\GitHub\SPFSensorDisplay\SPFSensorDisplay\obj\Debug\SPFSensorDisplay.pdb
